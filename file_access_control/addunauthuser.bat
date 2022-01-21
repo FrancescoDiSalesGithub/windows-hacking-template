@@ -1,1 +1,1 @@
-net user add anonev
+net user /add anonev
